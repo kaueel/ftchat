@@ -1,3 +1,5 @@
+# FTChat
+
 FTChat is a client-server chat application that lets you add other users and communicate them via text messages, plus, it lets you export all your messages too, in a .txt file.
 
 ## Team
